@@ -30,9 +30,9 @@
 /* Begin PBXFileReference section */
 		12498CC6101EEE58E2C05FF4 /* Pods-TestMixAndMatch_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestMixAndMatch_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestMixAndMatch_Tests/Pods-TestMixAndMatch_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		448A26FBA20872AF485EEE6F /* Pods-TestMixAndMatch_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestMixAndMatch_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestMixAndMatch_Example/Pods-TestMixAndMatch_Example.release.xcconfig"; sourceTree = "<group>"; };
-		48AEDB437F851DE3CA021B82 /* TestMixAndMatch.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TestMixAndMatch.podspec; path = ../TestMixAndMatch.podspec; sourceTree = "<group>"; };
+		48AEDB437F851DE3CA021B82 /* TestMixAndMatch.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = TestMixAndMatch.podspec; path = ../TestMixAndMatch.podspec; sourceTree = "<group>"; };
 		4B27C4039AB216FE7CD629EA /* Pods-TestMixAndMatch_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestMixAndMatch_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TestMixAndMatch_Tests/Pods-TestMixAndMatch_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		56A002EFDA2217B6764BECC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		56A002EFDA2217B6764BECC0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* TestMixAndMatch_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestMixAndMatch_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		6A95D2ECAC3929C3FFC57ECC /* Pods-TestMixAndMatch_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TestMixAndMatch_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TestMixAndMatch_Example/Pods-TestMixAndMatch_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		BF2A96986D670A3D4F129EC9 /* Pods_TestMixAndMatch_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestMixAndMatch_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E32312772798438C964174D7 /* Pods_TestMixAndMatch_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TestMixAndMatch_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		ED681ACBDFFCC7547EE2761A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		ED681ACBDFFCC7547EE2761A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

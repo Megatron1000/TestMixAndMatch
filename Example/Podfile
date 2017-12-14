@@ -1,11 +1,10 @@
 use_frameworks!
+platform :ios, ‘9.0’
 
 target 'TestMixAndMatch_Example' do
   pod 'TestMixAndMatch', :path => '../'
 
   target 'TestMixAndMatch_Tests' do
     inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
   end
 end

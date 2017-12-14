@@ -1,0 +1,22 @@
+{
+  "name": "TestMixAndMatch",
+  "version": "0.1.0",
+  "summary": "A short description of TestMixAndMatch.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Mark Bridges/TestMixAndMatch",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Mark Bridges": "markbridges9@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Mark Bridges/TestMixAndMatch.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TestMixAndMatch/Classes/**/*"
+}

@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let object = SubClassedSwiftObject()
+//        let object = SubClassedSwiftObject()
     }
 
     override func didReceiveMemoryWarning() {

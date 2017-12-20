@@ -10,8 +10,9 @@
 #endif
 #endif
 
-//#import "SubClassedObject.h"
+//#import <TestMixAndMatch/SubClassedObject.h>
 #import "TestMixAndMatch.h"
+#import "SubClassedObject.h"
 
 FOUNDATION_EXPORT double TestMixAndMatchVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestMixAndMatchVersionString[];

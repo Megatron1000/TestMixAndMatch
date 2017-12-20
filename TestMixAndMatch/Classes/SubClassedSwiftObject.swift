@@ -7,9 +7,12 @@
 
 import Foundation
 
-class SubClassedSwiftObject: SubClassedObject {
+@objc public class SubClassedSwiftObject: NSObject {
     
-    func doSomething() {
+    @objc public func doSomething() {
+        
+        let subclassed = SubClassedObject()
+        subclassed.accessibilityActivate()
         
     }
     

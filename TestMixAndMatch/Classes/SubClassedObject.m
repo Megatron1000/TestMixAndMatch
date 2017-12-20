@@ -6,7 +6,14 @@
 //
 
 #import "SubClassedObject.h"
+#import <TestMixAndMatch/TestMixAndMatch-Swift.h>
 
 @implementation SubClassedObject
+
+- (void)tired
+{
+    BaseObject *baseObject = [[BaseObject alloc]init];
+    [baseObject autoContentAccessingProxy];
+}
 
 @end

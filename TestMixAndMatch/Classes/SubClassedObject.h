@@ -6,8 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-//#import <TestMixAndMatch/TestMixAndMatch-Swift.h>
-#import <TestMixAndMatch/TestMixAndMatch-umbrella.h>
 
 @interface SubClassedObject : NSObject
 
